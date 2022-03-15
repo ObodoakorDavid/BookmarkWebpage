@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc5be1df.css",
+    "main.js": "/static/js/main.2cddec24.js",
+    "static/js/787.1fee1fb8.chunk.js": "/static/js/787.1fee1fb8.chunk.js",
+    "static/media/illustration-hero (1).svg": "/static/media/illustration-hero (1).07801d05cb11930f0c826add8c05ce22.svg",
+    "static/media/logo-bookmark.svg": "/static/media/logo-bookmark.d426263a94701e122e7d14b0c6eee7ce.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/illustration-features-tab-1.svg": "/static/media/illustration-features-tab-1.0da3d302207bcad90cdadc5052e35ed6.svg",
+    "static/media/logo-chrome.svg": "/static/media/logo-chrome.a42815a014c452e4d95851f7a8daf95b.svg",
+    "static/media/logo-firefox.svg": "/static/media/logo-firefox.a9e6ca53e8cfd641e556b7afb1f0085f.svg",
+    "static/media/bg-dots.svg": "/static/media/bg-dots.90f0b46cec8b5f7cfd12393cb5f391a7.svg",
+    "index.html": "/index.html",
+    "static/media/icon-twitter.svg": "/static/media/icon-twitter.dde79e7edd3892319de2ee22ea7ca39d.svg",
+    "static/media/icon-facebook.svg": "/static/media/icon-facebook.8b45ba94b5f75f0d38a9bbcc11df55c2.svg",
+    "static/media/logo-opera.svg": "/static/media/logo-opera.ff14e4763945338fe002017c72e7e597.svg",
+    "main.bc5be1df.css.map": "/static/css/main.bc5be1df.css.map",
+    "main.2cddec24.js.map": "/static/js/main.2cddec24.js.map",
+    "787.1fee1fb8.chunk.js.map": "/static/js/787.1fee1fb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc5be1df.css",
+    "static/js/main.2cddec24.js"
+  ]
+}
